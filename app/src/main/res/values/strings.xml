@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ghgj">ghgj</string>
+    <string name="Zero">0</string>
+    <string name="Point">.</string>
+    <string name="Negative">+/-</string>
+    <string name="Equal">=</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Multiply">*</string>
+    <string name="Dis">/</string>
+    <string name="disa">/</string>
+</resources>
